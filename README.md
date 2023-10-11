@@ -1,0 +1,1 @@
+# find_Pythagorean_triples_using_std_ranges
