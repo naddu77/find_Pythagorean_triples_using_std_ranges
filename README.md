@@ -1,6 +1,6 @@
 # find_Pythagorean_triples_using_std_ranges
 This code uses C++20 Standard Ranges Library to find Pythagorean triangles.
-But it uses C++23 Standard Library Modules.
+But it uses C++23 Standard Library Modules and `std::println`.
 
 ```C++
 import std;
